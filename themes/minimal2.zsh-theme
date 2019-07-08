@@ -1,5 +1,6 @@
 # A custom theme based on the minimal theme
 # https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/minimal.zsh-theme
+# Author: Girish Rao (https://github.com/girishrau)
 ZSH_THEME_GIT_PROMPT_PREFIX="%{$reset_color%}%{$fg[white]%}["
 ZSH_THEME_GIT_PROMPT_SUFFIX=""
 ZSH_THEME_GIT_PROMPT_DIRTY="%{$fg[red]%}●%{$fg[white]%}]%{$reset_color%} "
