@@ -25,4 +25,4 @@ vcs_status() {
 }
 
 PROMPT='%{$fg[blue]%}%2~%{$reset_color%} $(vcs_status)
-»%b '
+%{$fg[blue]%}»%{$reset_color%}%b '
